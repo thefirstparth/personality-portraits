@@ -1,0 +1,27 @@
+{
+  "schema_version": 1,
+  "timezone": "Asia/Kolkata",
+  "daily_accepted_target": 21,
+  "daily_generation_attempt_cap": 30,
+  "standard_new_slots": 12,
+  "emerging_new_slots": 4,
+  "refresh_max_slots": 5,
+  "refresh_after_days": 90,
+  "style_version": "editorial-v0.2-draft",
+  "style_approved": false,
+  "publication_enabled": false,
+  "quota_note": "30 attempts is a ceiling, not an entitlement. Stop earlier at provider limits or user reserve constraints. No automatic paid fallback.",
+  "sources": [
+    "https://getandaaza.vercel.app/",
+    "https://house14.vercel.app/"
+  ],
+  "discovery_scope": "union_prioritize_overlap",
+  "refresh_priority": [
+    "appears_on_both_sites_last_30_days",
+    "appears_on_either_site_last_30_days",
+    "days_overdue"
+  ],
+  "emerging_rotation": "Prefer at least two categories where eligible evidence exists.",
+  "source_refresh": "Scan source sites daily; compare official rosters daily for active categories; broader discovery weekly.",
+  "candidate_expansion_max_per_category_per_day": 2
+}

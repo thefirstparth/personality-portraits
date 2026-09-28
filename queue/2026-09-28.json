@@ -1,0 +1,302 @@
+{
+  "schema_version": 1,
+  "date": "2026-09-28",
+  "target": 21,
+  "gate": "awaiting_style_approval",
+  "attempts_used": 3,
+  "approved": 0,
+  "published": 0,
+  "note": "Two review samples generated. Taylor Swift rejected by provider; hold this candidate without retry. No refreshes due in new library. Any replacement candidate must be selected transparently.",
+  "candidates": [
+    {
+      "id": "kimi-antonelli",
+      "name": "Kimi Antonelli",
+      "aliases": [
+        "Andrea Kimi Antonelli"
+      ],
+      "categories": [
+        "f1"
+      ],
+      "lane": "standard",
+      "status": "review_pending",
+      "site_evidence": "both",
+      "observed_on": "2026-09-28",
+      "reason": "Direct mention in inspected site snapshot; not a popularity rank."
+    },
+    {
+      "id": "lewis-hamilton",
+      "name": "Lewis Hamilton",
+      "aliases": [],
+      "categories": [
+        "f1"
+      ],
+      "lane": "standard",
+      "status": "review_pending",
+      "site_evidence": "both",
+      "observed_on": "2026-09-28",
+      "reason": "Direct mention in inspected site snapshot; not a popularity rank."
+    },
+    {
+      "id": "max-verstappen",
+      "name": "Max Verstappen",
+      "aliases": [],
+      "categories": [
+        "f1"
+      ],
+      "lane": "standard",
+      "status": "queued",
+      "site_evidence": "house14",
+      "observed_on": "2026-09-28",
+      "reason": "Direct mention in inspected site snapshot; not a popularity rank."
+    },
+    {
+      "id": "george-russell",
+      "name": "George Russell",
+      "aliases": [],
+      "categories": [
+        "f1"
+      ],
+      "lane": "standard",
+      "status": "queued",
+      "site_evidence": "both",
+      "observed_on": "2026-09-28",
+      "reason": "Direct mention in inspected site snapshot; not a popularity rank."
+    },
+    {
+      "id": "lando-norris",
+      "name": "Lando Norris",
+      "aliases": [],
+      "categories": [
+        "f1"
+      ],
+      "lane": "standard",
+      "status": "queued",
+      "site_evidence": "house14",
+      "observed_on": "2026-09-28",
+      "reason": "Direct mention in inspected site snapshot; not a popularity rank."
+    },
+    {
+      "id": "charles-leclerc",
+      "name": "Charles Leclerc",
+      "aliases": [],
+      "categories": [
+        "f1"
+      ],
+      "lane": "standard",
+      "status": "queued",
+      "site_evidence": "house14",
+      "observed_on": "2026-09-28",
+      "reason": "Direct mention in inspected site snapshot; not a popularity rank."
+    },
+    {
+      "id": "harry-kane",
+      "name": "Harry Kane",
+      "aliases": [],
+      "categories": [
+        "football"
+      ],
+      "lane": "standard",
+      "status": "queued",
+      "site_evidence": "both",
+      "observed_on": "2026-09-28",
+      "reason": "Direct mention in inspected site snapshot; not a popularity rank."
+    },
+    {
+      "id": "lamine-yamal",
+      "name": "Lamine Yamal",
+      "aliases": [],
+      "categories": [
+        "football"
+      ],
+      "lane": "standard",
+      "status": "queued",
+      "site_evidence": "both",
+      "observed_on": "2026-09-28",
+      "reason": "Direct mention in inspected site snapshot; not a popularity rank."
+    },
+    {
+      "id": "kylian-mbappe",
+      "name": "Kylian Mbappé",
+      "aliases": [
+        "Kylian Mbappe"
+      ],
+      "categories": [
+        "football"
+      ],
+      "lane": "standard",
+      "status": "queued",
+      "site_evidence": "both",
+      "observed_on": "2026-09-28",
+      "reason": "Direct mention in inspected site snapshot; not a popularity rank."
+    },
+    {
+      "id": "carlos-alcaraz",
+      "name": "Carlos Alcaraz",
+      "aliases": [],
+      "categories": [
+        "tennis"
+      ],
+      "lane": "standard",
+      "status": "queued",
+      "site_evidence": "both",
+      "observed_on": "2026-09-28",
+      "reason": "Direct mention in inspected site snapshot; not a popularity rank."
+    },
+    {
+      "id": "alexander-zverev",
+      "name": "Alexander Zverev",
+      "aliases": [],
+      "categories": [
+        "tennis"
+      ],
+      "lane": "standard",
+      "status": "queued",
+      "site_evidence": "both",
+      "observed_on": "2026-09-28",
+      "reason": "Direct mention in inspected site snapshot; not a popularity rank."
+    },
+    {
+      "id": "novak-djokovic",
+      "name": "Novak Djokovic",
+      "aliases": [],
+      "categories": [
+        "tennis"
+      ],
+      "lane": "standard",
+      "status": "queued",
+      "site_evidence": "house14",
+      "observed_on": "2026-09-28",
+      "reason": "Direct mention in inspected site snapshot; not a popularity rank."
+    },
+    {
+      "id": "victor-wembanyama",
+      "name": "Victor Wembanyama",
+      "aliases": [],
+      "categories": [
+        "basketball"
+      ],
+      "lane": "standard",
+      "status": "queued",
+      "site_evidence": "andaaza",
+      "observed_on": "2026-09-28",
+      "reason": "Direct mention in inspected site snapshot; not a popularity rank."
+    },
+    {
+      "id": "luka-doncic",
+      "name": "Luka Dončić",
+      "aliases": [
+        "Luka Doncic"
+      ],
+      "categories": [
+        "basketball"
+      ],
+      "lane": "standard",
+      "status": "queued",
+      "site_evidence": "andaaza",
+      "observed_on": "2026-09-28",
+      "reason": "Direct mention in inspected site snapshot; not a popularity rank."
+    },
+    {
+      "id": "taylor-swift",
+      "name": "Taylor Swift",
+      "aliases": [],
+      "categories": [
+        "music"
+      ],
+      "lane": "standard",
+      "status": "provider_blocked",
+      "site_evidence": "andaaza",
+      "observed_on": "2026-09-28",
+      "reason": "Direct mention in inspected site snapshot; not a popularity rank."
+    },
+    {
+      "id": "olivia-rodrigo",
+      "name": "Olivia Rodrigo",
+      "aliases": [],
+      "categories": [
+        "music"
+      ],
+      "lane": "standard",
+      "status": "queued",
+      "site_evidence": "andaaza",
+      "observed_on": "2026-09-28",
+      "reason": "Direct mention in inspected site snapshot; not a popularity rank."
+    },
+    {
+      "id": "brad-pitt",
+      "name": "Brad Pitt",
+      "aliases": [],
+      "categories": [
+        "film"
+      ],
+      "lane": "standard",
+      "status": "queued",
+      "site_evidence": "house14",
+      "observed_on": "2026-09-28",
+      "reason": "Direct mention in inspected site snapshot; not a popularity rank."
+    },
+    {
+      "id": "isack-hadjar",
+      "name": "Isack Hadjar",
+      "categories": [
+        "f1"
+      ],
+      "sources": [
+        "https://www.formula1.com/en/latest/article/who-are-the-2026-formula-1-drivers.3mVj9UTWK7Puz2QuScnzuz"
+      ],
+      "reason": "Current-season Red Bull promotion; also mentioned on House14.",
+      "aliases": [],
+      "lane": "emerging",
+      "status": "queued",
+      "observed_on": "2026-09-28"
+    },
+    {
+      "id": "oliver-bearman",
+      "name": "Oliver Bearman",
+      "categories": [
+        "f1"
+      ],
+      "sources": [
+        "https://www.formula1.com/en/drivers/oliver-bearman"
+      ],
+      "reason": "Current-season emerging F1 cohort; bootstrap selection, not a new announcement today.",
+      "aliases": [],
+      "lane": "emerging",
+      "status": "queued",
+      "observed_on": "2026-09-28"
+    },
+    {
+      "id": "vaibhav-sooryavanshi",
+      "name": "Vaibhav Sooryavanshi",
+      "aliases": [
+        "Vaibhav Suryavanshi"
+      ],
+      "categories": [
+        "cricket"
+      ],
+      "sources": [
+        "https://www.icc-cricket.com/news/category/player-114349"
+      ],
+      "reason": "ICC documents 2026 U19 World Cup breakthrough; category discovered from both sites.",
+      "lane": "emerging",
+      "status": "queued",
+      "observed_on": "2026-09-28"
+    },
+    {
+      "id": "anahat-singh",
+      "name": "Anahat Singh",
+      "categories": [
+        "squash"
+      ],
+      "sources": [
+        "https://house14.vercel.app/",
+        "https://indianexpress.com/article/sports/anahat-singh-1st-indian-squash-world-jr-champion-5th-attempt-10803687/"
+      ],
+      "reason": "House14 mention plus documented World Junior title; verified-source review required before drawing.",
+      "aliases": [],
+      "lane": "emerging",
+      "status": "queued",
+      "observed_on": "2026-09-28"
+    }
+  ]
+}
