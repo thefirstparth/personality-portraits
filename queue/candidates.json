@@ -109,7 +109,7 @@
         "current-f1-drivers"
       ],
       "lane": "standard",
-      "status": "draft",
+      "status": "awaiting_review",
       "site_evidence": "both",
       "observed_on": "2026-09-28",
       "reason": "Direct mention in inspected site snapshot; not a popularity rank.",
@@ -147,7 +147,20 @@
         "https://motorsportmagazine.b-cdn.net/database/wp-content/uploads/sites/2/2020/12/George-Russell-2023-head-shot-copy.jpg",
         "https://imageio.forbes.com/specials-images/imageserve/675383c944901da3ffa94963/0x0.jpg?crop=1861%2C1860%2Cx685%2Cy12%2Csafe&fit=bounds&format=jpg&height=416&width=416"
       ],
-      "reference_note": "Mixed dated 2023–2025 and undated reference photographs, inspected; not claimed to all be current-day photos."
+      "reference_note": "Mixed dated 2023–2025 and undated reference photographs, inspected; not claimed to all be current-day photos.",
+      "draft_sha256": "876a91594e98d872e04f99faf35c5c62117f105dbf946dc23f9496b270ff0938",
+      "technical_review": {
+        "width": 1254,
+        "height": 1254,
+        "margins_ltrb": [
+          0.15311004784688995,
+          0.1547049441786284,
+          0.1419457735247209,
+          0.11004784688995216
+        ],
+        "warnings": []
+      },
+      "review_note": "Full-size and 256px/64px light/dark inspection completed; individual owner approval remains pending."
     },
     "lando-norris": {
       "id": "lando-norris",
@@ -221,7 +234,7 @@
         "active-mens-footballers"
       ],
       "lane": "standard",
-      "status": "draft",
+      "status": "awaiting_review",
       "site_evidence": "both",
       "observed_on": "2026-09-28",
       "reason": "Direct mention in inspected site snapshot; not a popularity rank.",
@@ -259,7 +272,20 @@
         "https://cdn-img.staticzz.com/img/planteis/new/91/00/7369100_harry_kane_20251117054142.jpg",
         "https://cdn-img.staticzz.com/img/planteis/new/87/44/7048744_harry_kane_20251117054653.png"
       ],
-      "reference_note": "Mixed dated 2023–2025 and undated reference photographs, inspected; not claimed to all be current-day photos."
+      "reference_note": "Mixed dated 2023–2025 and undated reference photographs, inspected; not claimed to all be current-day photos.",
+      "draft_sha256": "181f012a55f83ebf583ac6e45b2402932efc5b4738d52a589ab1327774fb86d0",
+      "technical_review": {
+        "width": 1254,
+        "height": 1254,
+        "margins_ltrb": [
+          0.1251993620414673,
+          0.1339712918660287,
+          0.11961722488038277,
+          0.11403508771929824
+        ],
+        "warnings": []
+      },
+      "review_note": "Full-size and 256px/64px light/dark inspection completed; individual owner approval remains pending."
     },
     "lamine-yamal": {
       "id": "lamine-yamal",
@@ -269,7 +295,7 @@
         "active-mens-footballers"
       ],
       "lane": "standard",
-      "status": "researching",
+      "status": "deferred",
       "site_evidence": "both",
       "observed_on": "2026-09-28",
       "reason": "Direct mention in inspected site snapshot; not a popularity rank.",
@@ -307,7 +333,22 @@
         "https://ss.sport-express.ru/img/football/players/73794.png",
         "https://b.fssta.com/uploads/application/soccer/headshots/113441.png"
       ],
-      "reference_note": "Mixed dated 2023–2025 and undated reference photographs, inspected; not claimed to all be current-day photos."
+      "reference_note": "Mixed dated 2023–2025 and undated reference photographs, inspected; not claimed to all be current-day photos.",
+      "draft_sha256": "c11b52e861e077a00437d01679c6c0cbdf8b158d1bd7f21cc1a6101e461397a3",
+      "technical_review": {
+        "width": 1254,
+        "height": 1254,
+        "margins_ltrb": [
+          0.06060606060606061,
+          0.04226475279106858,
+          0.050239234449760764,
+          0.02711323763955343
+        ],
+        "warnings": [
+          "Less than 8% safety margin: inspect framing"
+        ]
+      },
+      "review_note": "Likeness draft shown; insufficient breathing room remains. Two attempts exhausted today; defer framing repair."
     },
     "kylian-mbappe": {
       "id": "kylian-mbappe",
@@ -417,7 +458,7 @@
         "active-mens-tennis-players"
       ],
       "lane": "standard",
-      "status": "draft",
+      "status": "awaiting_review",
       "site_evidence": "house14",
       "observed_on": "2026-09-28",
       "reason": "Direct mention in inspected site snapshot; not a popularity rank.",
@@ -455,7 +496,20 @@
         "https://a.espncdn.com/i/headshots/tennis/players/full/296.png",
         "https://i.pinimg.com/736x/1b/62/1d/1b621de9488f35350f69098c2b135a41.jpg"
       ],
-      "reference_note": "Mixed dated 2023–2025 and undated reference photographs, inspected; not claimed to all be current-day photos."
+      "reference_note": "Mixed dated 2023–2025 and undated reference photographs, inspected; not claimed to all be current-day photos.",
+      "draft_sha256": "550da451a8a4a7a846a3c7c3148e8d2e9dafaf84725a0d9c1c42373076df8f0b",
+      "technical_review": {
+        "width": 1254,
+        "height": 1254,
+        "margins_ltrb": [
+          0.17304625199362042,
+          0.1331738437001595,
+          0.16028708133971292,
+          0.09888357256778309
+        ],
+        "warnings": []
+      },
+      "review_note": "Full-size and 256px/64px light/dark inspection completed; individual owner approval remains pending."
     },
     "victor-wembanyama": {
       "id": "victor-wembanyama",
@@ -465,7 +519,7 @@
         "active-nba-players"
       ],
       "lane": "standard",
-      "status": "draft",
+      "status": "awaiting_review",
       "site_evidence": "andaaza",
       "observed_on": "2026-09-28",
       "reason": "Direct mention in inspected site snapshot; not a popularity rank.",
@@ -503,7 +557,20 @@
         "https://cdn-img.zerozero.pt/img/planteis/new/18/44/8701844_victor_wembanyama_20240422083341.jpg",
         "https://imageio.forbes.com/specials-images/imageserve/691426108eace1b256ab4004/0x0.jpg?crop=1562%2C1562%2Cx501%2Cy107%2Csafe&fit=bounds&format=jpg&height=416&width=416"
       ],
-      "reference_note": "Mixed dated 2023–2025 and undated reference photographs, inspected; not claimed to all be current-day photos."
+      "reference_note": "Mixed dated 2023–2025 and undated reference photographs, inspected; not claimed to all be current-day photos.",
+      "draft_sha256": "ef407dee0041d2855cb76c8512d5507b4772d25969d9b2f4b13065aabb70ff17",
+      "technical_review": {
+        "width": 1254,
+        "height": 1254,
+        "margins_ltrb": [
+          0.16028708133971292,
+          0.15231259968102073,
+          0.15869218500797447,
+          0.1076555023923445
+        ],
+        "warnings": []
+      },
+      "review_note": "Full-size and 256px/64px light/dark inspection completed; individual owner approval remains pending."
     },
     "luka-doncic": {
       "id": "luka-doncic",
@@ -809,14 +876,15 @@
       ],
       "origin": "direct",
       "last_seen_at": "2026-09-30T13:50:00+05:30",
-      "status": "researching",
+      "status": "blocked",
       "identity_confidence": "high",
       "recognition_brief": "Compact broad oval face; small closely focused brown eyes under straight dark brows; prominent slightly rounded nose with broad lower bridge; small relaxed mouth and familiar asymmetric smile; brown swept short hair with faded sides; close full dark-brown beard with warm highlights framing round chin. Quiet knowing half-smile and subtle head tilt, viewer-engaged eyes. Modestly emphasize nose and beard silhouette and compressed eye-mouth relationships. Soft pink football jersey with black collar, no logos. Mature face, do not use old clean-shaven reference styling; avoid Sergio Aguero lookalike.",
       "photo_reference_urls": [
         "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Lionel_Messi_NE_Revolution_Inter_Miami_7.9.25-043_%28cropped%29.jpg/1536px-Lionel_Messi_NE_Revolution_Inter_Miami_7.9.25-043_%28cropped%29.jpg",
         "https://cdn1.intermiami.news/uploads/52/2025/01/GettyImages-2181063491-scaled.jpg"
       ],
-      "reference_note": "Mixed dated 2023–2025 and undated reference photographs, inspected; not claimed to all be current-day photos."
+      "reference_note": "Mixed dated 2023–2025 and undated reference photographs, inspected; not claimed to all be current-day photos.",
+      "block_reason": "Image provider moderation rejected second request (public-figure); no further retry."
     }
   }
 }

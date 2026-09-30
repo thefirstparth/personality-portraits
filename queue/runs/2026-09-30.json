@@ -4,7 +4,7 @@
   "timezone": "Asia/Kolkata",
   "base_sha": "6e9af5afbbffcf820ea3649f558485c8a615f93b",
   "run_id": "9d2c683e-1af3-44df-b967-fe27cce99ba8",
-  "lease_expires_at": "2026-09-30T14:45:00+05:30",
+  "lease_expires_at": null,
   "selected_ids": [
     "george-russell",
     "lamine-yamal",
@@ -86,6 +86,46 @@
         "victor-wembanyama": 2
       },
       "note": "Reserve four framing edits and two unchanged-prompt retries. All twelve daily requests allocated."
+    },
+    {
+      "type": "generation_completed",
+      "generated_ids": [
+        "george-russell",
+        "lamine-yamal",
+        "novak-djokovic",
+        "harry-kane",
+        "victor-wembanyama"
+      ],
+      "ready_for_owner_review_ids": [
+        "george-russell",
+        "novak-djokovic",
+        "harry-kane",
+        "victor-wembanyama"
+      ],
+      "deferred_ids": [
+        "lamine-yamal"
+      ],
+      "blocked_ids": [
+        "lionel-messi"
+      ],
+      "approved": 0,
+      "published": 0,
+      "attempts_remaining": 0,
+      "note": "Five unique portraits generated. Four margin repairs completed. Yamal margin warning unresolved; Messi provider blocked."
+    },
+    {
+      "type": "user_deferred_candidates",
+      "names": [
+        "Flávio Bolsonaro",
+        "Demis Hassabis",
+        "Geoffrey Hinton",
+        "Fei-Fei Li",
+        "Neeru Dhanda"
+      ]
+    },
+    {
+      "type": "lease_released",
+      "reason": "Awaiting individual owner review; no image publication."
     }
   ]
 }
