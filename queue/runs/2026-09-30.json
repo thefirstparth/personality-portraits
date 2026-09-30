@@ -1,0 +1,65 @@
+{
+  "schema_version": 1,
+  "date": "2026-09-30",
+  "timezone": "Asia/Kolkata",
+  "base_sha": "6e9af5afbbffcf820ea3649f558485c8a615f93b",
+  "run_id": "9d2c683e-1af3-44df-b967-fe27cce99ba8",
+  "lease_expires_at": "2026-09-30T14:25:00+05:30",
+  "selected_ids": [
+    "george-russell",
+    "lamine-yamal",
+    "novak-djokovic",
+    "lionel-messi",
+    "harry-kane",
+    "victor-wembanyama"
+  ],
+  "attempts": {
+    "george-russell": 1,
+    "lamine-yamal": 1,
+    "novak-djokovic": 1,
+    "lionel-messi": 1,
+    "harry-kane": 1,
+    "victor-wembanyama": 1
+  },
+  "accepted_ids": [],
+  "published_ids": [],
+  "expansions": {},
+  "source_reads": [
+    {
+      "url": "https://getandaaza.vercel.app/",
+      "observed_at": "2026-09-30T13:50:00+05:30",
+      "edition_date": null
+    },
+    {
+      "url": "https://house14.vercel.app/",
+      "observed_at": "2026-09-30T13:50:00+05:30",
+      "edition_date": "2026-09-29"
+    }
+  ],
+  "events": [
+    {
+      "type": "user_selection",
+      "ids": [
+        "george-russell",
+        "lamine-yamal",
+        "novak-djokovic",
+        "lionel-messi",
+        "harry-kane",
+        "victor-wembanyama"
+      ],
+      "note": "Six direct candidates selected by Parth. Related slots borrowed. Publication requested but individual image review pending."
+    },
+    {
+      "type": "request_reservation",
+      "attempts": {
+        "george-russell": 1,
+        "lamine-yamal": 1,
+        "novak-djokovic": 1,
+        "lionel-messi": 1,
+        "harry-kane": 1,
+        "victor-wembanyama": 1
+      },
+      "note": "Six first requests reserved before generation; zero approvals."
+    }
+  ]
+}

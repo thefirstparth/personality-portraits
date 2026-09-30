@@ -1,0 +1,822 @@
+{
+  "schema_version": 1,
+  "people": {
+    "kimi-antonelli": {
+      "id": "kimi-antonelli",
+      "name": "Kimi Antonelli",
+      "aliases": [
+        "Andrea Kimi Antonelli"
+      ],
+      "categories": [
+        "f1"
+      ],
+      "lane": "standard",
+      "status": "awaiting_review",
+      "site_evidence": "both",
+      "observed_on": "2026-09-28",
+      "reason": "Direct mention in inspected site snapshot; not a popularity rank.",
+      "legacy_record": {
+        "id": "kimi-antonelli",
+        "name": "Kimi Antonelli",
+        "aliases": [
+          "Andrea Kimi Antonelli"
+        ],
+        "categories": [
+          "f1"
+        ],
+        "lane": "standard",
+        "status": "review_pending",
+        "site_evidence": "both",
+        "observed_on": "2026-09-28",
+        "reason": "Direct mention in inspected site snapshot; not a popularity rank."
+      },
+      "origin": "direct",
+      "first_seen_at": "2026-09-28",
+      "last_seen_at": "2026-09-28",
+      "evidence": [],
+      "expansion_links": [],
+      "identity_confidence": "legacy_requires_source_refresh"
+    },
+    "lewis-hamilton": {
+      "id": "lewis-hamilton",
+      "name": "Lewis Hamilton",
+      "aliases": [],
+      "categories": [
+        "f1"
+      ],
+      "lane": "standard",
+      "status": "awaiting_review",
+      "site_evidence": "both",
+      "observed_on": "2026-09-28",
+      "reason": "Direct mention in inspected site snapshot; not a popularity rank.",
+      "legacy_record": {
+        "id": "lewis-hamilton",
+        "name": "Lewis Hamilton",
+        "aliases": [],
+        "categories": [
+          "f1"
+        ],
+        "lane": "standard",
+        "status": "review_pending",
+        "site_evidence": "both",
+        "observed_on": "2026-09-28",
+        "reason": "Direct mention in inspected site snapshot; not a popularity rank."
+      },
+      "origin": "direct",
+      "first_seen_at": "2026-09-28",
+      "last_seen_at": "2026-09-28",
+      "evidence": [],
+      "expansion_links": [],
+      "identity_confidence": "legacy_requires_source_refresh"
+    },
+    "max-verstappen": {
+      "id": "max-verstappen",
+      "name": "Max Verstappen",
+      "aliases": [],
+      "categories": [
+        "f1"
+      ],
+      "lane": "standard",
+      "status": "queued",
+      "site_evidence": "house14",
+      "observed_on": "2026-09-28",
+      "reason": "Direct mention in inspected site snapshot; not a popularity rank.",
+      "legacy_record": {
+        "id": "max-verstappen",
+        "name": "Max Verstappen",
+        "aliases": [],
+        "categories": [
+          "f1"
+        ],
+        "lane": "standard",
+        "status": "queued",
+        "site_evidence": "house14",
+        "observed_on": "2026-09-28",
+        "reason": "Direct mention in inspected site snapshot; not a popularity rank."
+      },
+      "origin": "direct",
+      "first_seen_at": "2026-09-28",
+      "last_seen_at": "2026-09-28",
+      "evidence": [],
+      "expansion_links": [],
+      "identity_confidence": "legacy_requires_source_refresh"
+    },
+    "george-russell": {
+      "id": "george-russell",
+      "name": "George Russell",
+      "aliases": [],
+      "categories": [
+        "current-f1-drivers"
+      ],
+      "lane": "standard",
+      "status": "researching",
+      "site_evidence": "both",
+      "observed_on": "2026-09-28",
+      "reason": "Direct mention in inspected site snapshot; not a popularity rank.",
+      "legacy_record": {
+        "id": "george-russell",
+        "name": "George Russell",
+        "aliases": [],
+        "categories": [
+          "f1"
+        ],
+        "lane": "standard",
+        "status": "queued",
+        "site_evidence": "both",
+        "observed_on": "2026-09-28",
+        "reason": "Direct mention in inspected site snapshot; not a popularity rank."
+      },
+      "origin": "direct",
+      "first_seen_at": "2026-09-28",
+      "last_seen_at": "2026-09-30T13:50:00+05:30",
+      "evidence": [
+        {
+          "site_url": "https://getandaaza.vercel.app/",
+          "section": "Formula 1",
+          "excerpt": "George Russell 19%",
+          "edition_date": null,
+          "observed_at": "2026-09-30T13:45:00+05:30",
+          "content_hash_scope": "supporting_excerpt",
+          "content_hash": "6d7dbd8e358e56153dd507a4c7cb649609b6eaf5cbe69d3f5227062d22b10149"
+        }
+      ],
+      "expansion_links": [],
+      "identity_confidence": "high",
+      "recognition_brief": "Long narrow angular face and tall forehead; strong straight dark brows above light eyes; long straight nose with small tip; slim closed lips and squared tapered chin; thick brown hair lifted in a side-swept quiff. Calm slightly self-assured half-smile, one mouth corner gently raised. Selectively lengthen face and quiff, sharpen brows and chin modestly. Black racing suit with restrained teal seam accents, no logos. Avoid making him look like Henry Cavill or a generic handsome avatar.",
+      "photo_reference_urls": [
+        "https://motorsportmagazine.b-cdn.net/database/wp-content/uploads/sites/2/2020/12/George-Russell-2023-head-shot-copy.jpg",
+        "https://imageio.forbes.com/specials-images/imageserve/675383c944901da3ffa94963/0x0.jpg?crop=1861%2C1860%2Cx685%2Cy12%2Csafe&fit=bounds&format=jpg&height=416&width=416"
+      ],
+      "reference_note": "Mixed dated 2023–2025 and undated reference photographs, inspected; not claimed to all be current-day photos."
+    },
+    "lando-norris": {
+      "id": "lando-norris",
+      "name": "Lando Norris",
+      "aliases": [],
+      "categories": [
+        "f1"
+      ],
+      "lane": "standard",
+      "status": "queued",
+      "site_evidence": "house14",
+      "observed_on": "2026-09-28",
+      "reason": "Direct mention in inspected site snapshot; not a popularity rank.",
+      "legacy_record": {
+        "id": "lando-norris",
+        "name": "Lando Norris",
+        "aliases": [],
+        "categories": [
+          "f1"
+        ],
+        "lane": "standard",
+        "status": "queued",
+        "site_evidence": "house14",
+        "observed_on": "2026-09-28",
+        "reason": "Direct mention in inspected site snapshot; not a popularity rank."
+      },
+      "origin": "direct",
+      "first_seen_at": "2026-09-28",
+      "last_seen_at": "2026-09-28",
+      "evidence": [],
+      "expansion_links": [],
+      "identity_confidence": "legacy_requires_source_refresh"
+    },
+    "charles-leclerc": {
+      "id": "charles-leclerc",
+      "name": "Charles Leclerc",
+      "aliases": [],
+      "categories": [
+        "f1"
+      ],
+      "lane": "standard",
+      "status": "queued",
+      "site_evidence": "house14",
+      "observed_on": "2026-09-28",
+      "reason": "Direct mention in inspected site snapshot; not a popularity rank.",
+      "legacy_record": {
+        "id": "charles-leclerc",
+        "name": "Charles Leclerc",
+        "aliases": [],
+        "categories": [
+          "f1"
+        ],
+        "lane": "standard",
+        "status": "queued",
+        "site_evidence": "house14",
+        "observed_on": "2026-09-28",
+        "reason": "Direct mention in inspected site snapshot; not a popularity rank."
+      },
+      "origin": "direct",
+      "first_seen_at": "2026-09-28",
+      "last_seen_at": "2026-09-28",
+      "evidence": [],
+      "expansion_links": [],
+      "identity_confidence": "legacy_requires_source_refresh"
+    },
+    "harry-kane": {
+      "id": "harry-kane",
+      "name": "Harry Kane",
+      "aliases": [],
+      "categories": [
+        "active-mens-footballers"
+      ],
+      "lane": "standard",
+      "status": "researching",
+      "site_evidence": "both",
+      "observed_on": "2026-09-28",
+      "reason": "Direct mention in inspected site snapshot; not a popularity rank.",
+      "legacy_record": {
+        "id": "harry-kane",
+        "name": "Harry Kane",
+        "aliases": [],
+        "categories": [
+          "football"
+        ],
+        "lane": "standard",
+        "status": "queued",
+        "site_evidence": "both",
+        "observed_on": "2026-09-28",
+        "reason": "Direct mention in inspected site snapshot; not a popularity rank."
+      },
+      "origin": "direct",
+      "first_seen_at": "2026-09-28",
+      "last_seen_at": "2026-09-30T13:50:00+05:30",
+      "evidence": [
+        {
+          "site_url": "https://getandaaza.vercel.app/",
+          "section": "Ballon d'Or",
+          "excerpt": "Harry Kane 45%",
+          "edition_date": null,
+          "observed_at": "2026-09-30T13:45:00+05:30",
+          "content_hash_scope": "supporting_excerpt",
+          "content_hash": "43036b1b3cdcebac508cb04253bf873b38bfa6acd21d18a98f8520ed988c666d"
+        }
+      ],
+      "expansion_links": [],
+      "identity_confidence": "high",
+      "recognition_brief": "Long pale face, high forehead and short light-brown upswept hair; slightly hooded blue eyes and light straight eyebrows; long prominent straight nose; thin upper lip and small half-open mouth; rugged square lower jaw and neatly trimmed brown beard. Slightly amused understated captain expression, soft asymmetric smile. Modestly accent nose, chin and squared beard outline while preserving eye spacing. White England football shirt with restrained navy collar, no logos. Avoid David Beckham or generic bearded face.",
+      "photo_reference_urls": [
+        "https://cdn-img.staticzz.com/img/planteis/new/91/00/7369100_harry_kane_20251117054142.jpg",
+        "https://cdn-img.staticzz.com/img/planteis/new/87/44/7048744_harry_kane_20251117054653.png"
+      ],
+      "reference_note": "Mixed dated 2023–2025 and undated reference photographs, inspected; not claimed to all be current-day photos."
+    },
+    "lamine-yamal": {
+      "id": "lamine-yamal",
+      "name": "Lamine Yamal",
+      "aliases": [],
+      "categories": [
+        "active-mens-footballers"
+      ],
+      "lane": "standard",
+      "status": "researching",
+      "site_evidence": "both",
+      "observed_on": "2026-09-28",
+      "reason": "Direct mention in inspected site snapshot; not a popularity rank.",
+      "legacy_record": {
+        "id": "lamine-yamal",
+        "name": "Lamine Yamal",
+        "aliases": [],
+        "categories": [
+          "football"
+        ],
+        "lane": "standard",
+        "status": "queued",
+        "site_evidence": "both",
+        "observed_on": "2026-09-28",
+        "reason": "Direct mention in inspected site snapshot; not a popularity rank."
+      },
+      "origin": "direct",
+      "first_seen_at": "2026-09-28",
+      "last_seen_at": "2026-09-30T13:50:00+05:30",
+      "evidence": [
+        {
+          "site_url": "https://getandaaza.vercel.app/",
+          "section": "Ballon d'Or",
+          "excerpt": "Lamine Yamal 44%",
+          "edition_date": null,
+          "observed_at": "2026-09-30T13:45:00+05:30",
+          "content_hash_scope": "supporting_excerpt",
+          "content_hash": "1cf9940ce9edc28a76195aa9df3d506b418c9a32459eac5e9a76bdcafc102703"
+        }
+      ],
+      "expansion_links": [],
+      "identity_confidence": "high",
+      "recognition_brief": "Youthful warm medium-brown complexion; tight short dark curls with subtle brown tips and faded sides; broad straight dark eyebrows over almond dark eyes; broad rounded nose; fuller lips with generous toothy smile; oval face and prominent ears. Relaxed playful open smile, tiny head tilt, eyes on viewer. Selectively emphasize curl silhouette, ears, expressive mouth corners. Burgundy and deep-blue football shirt, no logos. Preserve young facial proportions, faint moustache only; avoid Neymar lookalike.",
+      "photo_reference_urls": [
+        "https://ss.sport-express.ru/img/football/players/73794.png",
+        "https://b.fssta.com/uploads/application/soccer/headshots/113441.png"
+      ],
+      "reference_note": "Mixed dated 2023–2025 and undated reference photographs, inspected; not claimed to all be current-day photos."
+    },
+    "kylian-mbappe": {
+      "id": "kylian-mbappe",
+      "name": "Kylian Mbappé",
+      "aliases": [
+        "Kylian Mbappe"
+      ],
+      "categories": [
+        "football"
+      ],
+      "lane": "standard",
+      "status": "queued",
+      "site_evidence": "both",
+      "observed_on": "2026-09-28",
+      "reason": "Direct mention in inspected site snapshot; not a popularity rank.",
+      "legacy_record": {
+        "id": "kylian-mbappe",
+        "name": "Kylian Mbappé",
+        "aliases": [
+          "Kylian Mbappe"
+        ],
+        "categories": [
+          "football"
+        ],
+        "lane": "standard",
+        "status": "queued",
+        "site_evidence": "both",
+        "observed_on": "2026-09-28",
+        "reason": "Direct mention in inspected site snapshot; not a popularity rank."
+      },
+      "origin": "direct",
+      "first_seen_at": "2026-09-28",
+      "last_seen_at": "2026-09-28",
+      "evidence": [],
+      "expansion_links": [],
+      "identity_confidence": "legacy_requires_source_refresh"
+    },
+    "carlos-alcaraz": {
+      "id": "carlos-alcaraz",
+      "name": "Carlos Alcaraz",
+      "aliases": [],
+      "categories": [
+        "tennis"
+      ],
+      "lane": "standard",
+      "status": "queued",
+      "site_evidence": "both",
+      "observed_on": "2026-09-28",
+      "reason": "Direct mention in inspected site snapshot; not a popularity rank.",
+      "legacy_record": {
+        "id": "carlos-alcaraz",
+        "name": "Carlos Alcaraz",
+        "aliases": [],
+        "categories": [
+          "tennis"
+        ],
+        "lane": "standard",
+        "status": "queued",
+        "site_evidence": "both",
+        "observed_on": "2026-09-28",
+        "reason": "Direct mention in inspected site snapshot; not a popularity rank."
+      },
+      "origin": "direct",
+      "first_seen_at": "2026-09-28",
+      "last_seen_at": "2026-09-28",
+      "evidence": [],
+      "expansion_links": [],
+      "identity_confidence": "legacy_requires_source_refresh"
+    },
+    "alexander-zverev": {
+      "id": "alexander-zverev",
+      "name": "Alexander Zverev",
+      "aliases": [],
+      "categories": [
+        "tennis"
+      ],
+      "lane": "standard",
+      "status": "queued",
+      "site_evidence": "both",
+      "observed_on": "2026-09-28",
+      "reason": "Direct mention in inspected site snapshot; not a popularity rank.",
+      "legacy_record": {
+        "id": "alexander-zverev",
+        "name": "Alexander Zverev",
+        "aliases": [],
+        "categories": [
+          "tennis"
+        ],
+        "lane": "standard",
+        "status": "queued",
+        "site_evidence": "both",
+        "observed_on": "2026-09-28",
+        "reason": "Direct mention in inspected site snapshot; not a popularity rank."
+      },
+      "origin": "direct",
+      "first_seen_at": "2026-09-28",
+      "last_seen_at": "2026-09-28",
+      "evidence": [],
+      "expansion_links": [],
+      "identity_confidence": "legacy_requires_source_refresh"
+    },
+    "novak-djokovic": {
+      "id": "novak-djokovic",
+      "name": "Novak Djokovic",
+      "aliases": [],
+      "categories": [
+        "active-mens-tennis-players"
+      ],
+      "lane": "standard",
+      "status": "researching",
+      "site_evidence": "house14",
+      "observed_on": "2026-09-28",
+      "reason": "Direct mention in inspected site snapshot; not a popularity rank.",
+      "legacy_record": {
+        "id": "novak-djokovic",
+        "name": "Novak Djokovic",
+        "aliases": [],
+        "categories": [
+          "tennis"
+        ],
+        "lane": "standard",
+        "status": "queued",
+        "site_evidence": "house14",
+        "observed_on": "2026-09-28",
+        "reason": "Direct mention in inspected site snapshot; not a popularity rank."
+      },
+      "origin": "direct",
+      "first_seen_at": "2026-09-28",
+      "last_seen_at": "2026-09-30T13:50:00+05:30",
+      "evidence": [
+        {
+          "site_url": "https://getandaaza.vercel.app/",
+          "section": "Tennis",
+          "excerpt": "Nuno Borges v Novak Djokovic",
+          "edition_date": null,
+          "observed_at": "2026-09-30T13:45:00+05:30",
+          "content_hash_scope": "supporting_excerpt",
+          "content_hash": "229c67da4cdede0c0b18144002c49733f91101a3a53b3ea1a0e6457149a2edc1"
+        }
+      ],
+      "expansion_links": [],
+      "identity_confidence": "high",
+      "recognition_brief": "Long lean angular face, strong narrow jaw and compact chin; straight assertive brows and deep-set hazel eyes; long straight prominent nose; small firm mouth with asymmetric amused closed smile; dark short upright hair and subtle dark stubble. Wry competitive expression, one brow very slightly higher, relaxed shoulders. Modestly exaggerate nose length, brow angle, angular jaw, upright hair marks. Plain white tennis polo with muted green collar detail, no logos. Avoid generic tennis face or a broad cartoon grin.",
+      "photo_reference_urls": [
+        "https://a.espncdn.com/i/headshots/tennis/players/full/296.png",
+        "https://i.pinimg.com/736x/1b/62/1d/1b621de9488f35350f69098c2b135a41.jpg"
+      ],
+      "reference_note": "Mixed dated 2023–2025 and undated reference photographs, inspected; not claimed to all be current-day photos."
+    },
+    "victor-wembanyama": {
+      "id": "victor-wembanyama",
+      "name": "Victor Wembanyama",
+      "aliases": [],
+      "categories": [
+        "active-nba-players"
+      ],
+      "lane": "standard",
+      "status": "researching",
+      "site_evidence": "andaaza",
+      "observed_on": "2026-09-28",
+      "reason": "Direct mention in inspected site snapshot; not a popularity rank.",
+      "legacy_record": {
+        "id": "victor-wembanyama",
+        "name": "Victor Wembanyama",
+        "aliases": [],
+        "categories": [
+          "basketball"
+        ],
+        "lane": "standard",
+        "status": "queued",
+        "site_evidence": "andaaza",
+        "observed_on": "2026-09-28",
+        "reason": "Direct mention in inspected site snapshot; not a popularity rank."
+      },
+      "origin": "direct",
+      "first_seen_at": "2026-09-28",
+      "last_seen_at": "2026-09-30T13:50:00+05:30",
+      "evidence": [
+        {
+          "site_url": "https://getandaaza.vercel.app/",
+          "section": "NBA MVP",
+          "excerpt": "Victor Wembanyama",
+          "edition_date": null,
+          "observed_at": "2026-09-30T13:45:00+05:30",
+          "content_hash_scope": "supporting_excerpt",
+          "content_hash": "d82972e3bd5047db067e1e8b830e89d976ebdb9a80e7bf88ffb0a7c785ac1cc3"
+        }
+      ],
+      "expansion_links": [],
+      "identity_confidence": "high",
+      "recognition_brief": "Very long slender neck and narrow shoulders; warm medium-brown skin; elongated oval face with high cheekbones; wide almond-shaped brown eyes and gently arched dark brows; slim long nose with rounded tip; large generous lips and wide toothy smile; short tight black curls, faint moustache and small goatee; pronounced ears. Warm curious slightly mischievous smile, very small head tilt and viewer-facing gaze. Selectively emphasize neck length, ears and angular cheek silhouette, never alter complexion. Plain black and silver basketball jersey, no logos. Avoid Giannis lookalike, preserve slender face rather than generic muscular athlete.",
+      "photo_reference_urls": [
+        "https://cdn-img.zerozero.pt/img/planteis/new/18/44/8701844_victor_wembanyama_20240422083341.jpg",
+        "https://imageio.forbes.com/specials-images/imageserve/691426108eace1b256ab4004/0x0.jpg?crop=1562%2C1562%2Cx501%2Cy107%2Csafe&fit=bounds&format=jpg&height=416&width=416"
+      ],
+      "reference_note": "Mixed dated 2023–2025 and undated reference photographs, inspected; not claimed to all be current-day photos."
+    },
+    "luka-doncic": {
+      "id": "luka-doncic",
+      "name": "Luka Dončić",
+      "aliases": [
+        "Luka Doncic"
+      ],
+      "categories": [
+        "basketball"
+      ],
+      "lane": "standard",
+      "status": "queued",
+      "site_evidence": "andaaza",
+      "observed_on": "2026-09-28",
+      "reason": "Direct mention in inspected site snapshot; not a popularity rank.",
+      "legacy_record": {
+        "id": "luka-doncic",
+        "name": "Luka Dončić",
+        "aliases": [
+          "Luka Doncic"
+        ],
+        "categories": [
+          "basketball"
+        ],
+        "lane": "standard",
+        "status": "queued",
+        "site_evidence": "andaaza",
+        "observed_on": "2026-09-28",
+        "reason": "Direct mention in inspected site snapshot; not a popularity rank."
+      },
+      "origin": "direct",
+      "first_seen_at": "2026-09-28",
+      "last_seen_at": "2026-09-28",
+      "evidence": [],
+      "expansion_links": [],
+      "identity_confidence": "legacy_requires_source_refresh"
+    },
+    "taylor-swift": {
+      "id": "taylor-swift",
+      "name": "Taylor Swift",
+      "aliases": [],
+      "categories": [
+        "music"
+      ],
+      "lane": "standard",
+      "status": "blocked",
+      "site_evidence": "andaaza",
+      "observed_on": "2026-09-28",
+      "reason": "Direct mention in inspected site snapshot; not a popularity rank.",
+      "legacy_record": {
+        "id": "taylor-swift",
+        "name": "Taylor Swift",
+        "aliases": [],
+        "categories": [
+          "music"
+        ],
+        "lane": "standard",
+        "status": "provider_blocked",
+        "site_evidence": "andaaza",
+        "observed_on": "2026-09-28",
+        "reason": "Direct mention in inspected site snapshot; not a popularity rank."
+      },
+      "origin": "direct",
+      "first_seen_at": "2026-09-28",
+      "last_seen_at": "2026-09-28",
+      "evidence": [],
+      "expansion_links": [],
+      "identity_confidence": "legacy_requires_source_refresh"
+    },
+    "olivia-rodrigo": {
+      "id": "olivia-rodrigo",
+      "name": "Olivia Rodrigo",
+      "aliases": [],
+      "categories": [
+        "music"
+      ],
+      "lane": "standard",
+      "status": "queued",
+      "site_evidence": "andaaza",
+      "observed_on": "2026-09-28",
+      "reason": "Direct mention in inspected site snapshot; not a popularity rank.",
+      "legacy_record": {
+        "id": "olivia-rodrigo",
+        "name": "Olivia Rodrigo",
+        "aliases": [],
+        "categories": [
+          "music"
+        ],
+        "lane": "standard",
+        "status": "queued",
+        "site_evidence": "andaaza",
+        "observed_on": "2026-09-28",
+        "reason": "Direct mention in inspected site snapshot; not a popularity rank."
+      },
+      "origin": "direct",
+      "first_seen_at": "2026-09-28",
+      "last_seen_at": "2026-09-28",
+      "evidence": [],
+      "expansion_links": [],
+      "identity_confidence": "legacy_requires_source_refresh"
+    },
+    "brad-pitt": {
+      "id": "brad-pitt",
+      "name": "Brad Pitt",
+      "aliases": [],
+      "categories": [
+        "film"
+      ],
+      "lane": "standard",
+      "status": "queued",
+      "site_evidence": "house14",
+      "observed_on": "2026-09-28",
+      "reason": "Direct mention in inspected site snapshot; not a popularity rank.",
+      "legacy_record": {
+        "id": "brad-pitt",
+        "name": "Brad Pitt",
+        "aliases": [],
+        "categories": [
+          "film"
+        ],
+        "lane": "standard",
+        "status": "queued",
+        "site_evidence": "house14",
+        "observed_on": "2026-09-28",
+        "reason": "Direct mention in inspected site snapshot; not a popularity rank."
+      },
+      "origin": "direct",
+      "first_seen_at": "2026-09-28",
+      "last_seen_at": "2026-09-28",
+      "evidence": [],
+      "expansion_links": [],
+      "identity_confidence": "legacy_requires_source_refresh"
+    },
+    "isack-hadjar": {
+      "id": "isack-hadjar",
+      "name": "Isack Hadjar",
+      "categories": [
+        "f1"
+      ],
+      "sources": [
+        "https://www.formula1.com/en/latest/article/who-are-the-2026-formula-1-drivers.3mVj9UTWK7Puz2QuScnzuz"
+      ],
+      "reason": "Current-season Red Bull promotion; also mentioned on House14.",
+      "aliases": [],
+      "lane": "emerging",
+      "status": "queued",
+      "observed_on": "2026-09-28",
+      "legacy_record": {
+        "id": "isack-hadjar",
+        "name": "Isack Hadjar",
+        "categories": [
+          "f1"
+        ],
+        "sources": [
+          "https://www.formula1.com/en/latest/article/who-are-the-2026-formula-1-drivers.3mVj9UTWK7Puz2QuScnzuz"
+        ],
+        "reason": "Current-season Red Bull promotion; also mentioned on House14.",
+        "aliases": [],
+        "lane": "emerging",
+        "status": "queued",
+        "observed_on": "2026-09-28"
+      },
+      "origin": "expansion",
+      "first_seen_at": "2026-09-28",
+      "last_seen_at": "2026-09-28",
+      "evidence": [],
+      "expansion_links": [],
+      "identity_confidence": "legacy_requires_source_refresh"
+    },
+    "oliver-bearman": {
+      "id": "oliver-bearman",
+      "name": "Oliver Bearman",
+      "categories": [
+        "f1"
+      ],
+      "sources": [
+        "https://www.formula1.com/en/drivers/oliver-bearman"
+      ],
+      "reason": "Current-season emerging F1 cohort; bootstrap selection, not a new announcement today.",
+      "aliases": [],
+      "lane": "emerging",
+      "status": "queued",
+      "observed_on": "2026-09-28",
+      "legacy_record": {
+        "id": "oliver-bearman",
+        "name": "Oliver Bearman",
+        "categories": [
+          "f1"
+        ],
+        "sources": [
+          "https://www.formula1.com/en/drivers/oliver-bearman"
+        ],
+        "reason": "Current-season emerging F1 cohort; bootstrap selection, not a new announcement today.",
+        "aliases": [],
+        "lane": "emerging",
+        "status": "queued",
+        "observed_on": "2026-09-28"
+      },
+      "origin": "expansion",
+      "first_seen_at": "2026-09-28",
+      "last_seen_at": "2026-09-28",
+      "evidence": [],
+      "expansion_links": [],
+      "identity_confidence": "legacy_requires_source_refresh"
+    },
+    "vaibhav-sooryavanshi": {
+      "id": "vaibhav-sooryavanshi",
+      "name": "Vaibhav Sooryavanshi",
+      "aliases": [
+        "Vaibhav Suryavanshi"
+      ],
+      "categories": [
+        "cricket"
+      ],
+      "sources": [
+        "https://www.icc-cricket.com/news/category/player-114349"
+      ],
+      "reason": "ICC documents 2026 U19 World Cup breakthrough; category discovered from both sites.",
+      "lane": "emerging",
+      "status": "queued",
+      "observed_on": "2026-09-28",
+      "legacy_record": {
+        "id": "vaibhav-sooryavanshi",
+        "name": "Vaibhav Sooryavanshi",
+        "aliases": [
+          "Vaibhav Suryavanshi"
+        ],
+        "categories": [
+          "cricket"
+        ],
+        "sources": [
+          "https://www.icc-cricket.com/news/category/player-114349"
+        ],
+        "reason": "ICC documents 2026 U19 World Cup breakthrough; category discovered from both sites.",
+        "lane": "emerging",
+        "status": "queued",
+        "observed_on": "2026-09-28"
+      },
+      "origin": "expansion",
+      "first_seen_at": "2026-09-28",
+      "last_seen_at": "2026-09-28",
+      "evidence": [],
+      "expansion_links": [],
+      "identity_confidence": "legacy_requires_source_refresh"
+    },
+    "anahat-singh": {
+      "id": "anahat-singh",
+      "name": "Anahat Singh",
+      "categories": [
+        "squash"
+      ],
+      "sources": [
+        "https://house14.vercel.app/",
+        "https://indianexpress.com/article/sports/anahat-singh-1st-indian-squash-world-jr-champion-5th-attempt-10803687/"
+      ],
+      "reason": "House14 mention plus documented World Junior title; verified-source review required before drawing.",
+      "aliases": [],
+      "lane": "emerging",
+      "status": "queued",
+      "observed_on": "2026-09-28",
+      "legacy_record": {
+        "id": "anahat-singh",
+        "name": "Anahat Singh",
+        "categories": [
+          "squash"
+        ],
+        "sources": [
+          "https://house14.vercel.app/",
+          "https://indianexpress.com/article/sports/anahat-singh-1st-indian-squash-world-jr-champion-5th-attempt-10803687/"
+        ],
+        "reason": "House14 mention plus documented World Junior title; verified-source review required before drawing.",
+        "aliases": [],
+        "lane": "emerging",
+        "status": "queued",
+        "observed_on": "2026-09-28"
+      },
+      "origin": "expansion",
+      "first_seen_at": "2026-09-28",
+      "last_seen_at": "2026-09-28",
+      "evidence": [],
+      "expansion_links": [],
+      "identity_confidence": "legacy_requires_source_refresh"
+    },
+    "lionel-messi": {
+      "id": "lionel-messi",
+      "name": "Lionel Messi",
+      "aliases": [],
+      "first_seen_at": "2026-09-30T13:50:00+05:30",
+      "expansion_links": [],
+      "evidence": [
+        {
+          "site_url": "https://getandaaza.vercel.app/",
+          "section": "Ballon d'Or",
+          "excerpt": "Lionel Messi 4%",
+          "edition_date": null,
+          "observed_at": "2026-09-30T13:45:00+05:30",
+          "content_hash_scope": "supporting_excerpt",
+          "content_hash": "c731963c446707ab60aff448ae8e7c0313a181ac02a8fa6008c7144cf724964c"
+        }
+      ],
+      "categories": [
+        "active-mens-footballers"
+      ],
+      "origin": "direct",
+      "last_seen_at": "2026-09-30T13:50:00+05:30",
+      "status": "researching",
+      "identity_confidence": "high",
+      "recognition_brief": "Compact broad oval face; small closely focused brown eyes under straight dark brows; prominent slightly rounded nose with broad lower bridge; small relaxed mouth and familiar asymmetric smile; brown swept short hair with faded sides; close full dark-brown beard with warm highlights framing round chin. Quiet knowing half-smile and subtle head tilt, viewer-engaged eyes. Modestly emphasize nose and beard silhouette and compressed eye-mouth relationships. Soft pink football jersey with black collar, no logos. Mature face, do not use old clean-shaven reference styling; avoid Sergio Aguero lookalike.",
+      "photo_reference_urls": [
+        "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Lionel_Messi_NE_Revolution_Inter_Miami_7.9.25-043_%28cropped%29.jpg/1536px-Lionel_Messi_NE_Revolution_Inter_Miami_7.9.25-043_%28cropped%29.jpg",
+        "https://cdn1.intermiami.news/uploads/52/2025/01/GettyImages-2181063491-scaled.jpg"
+      ],
+      "reference_note": "Mixed dated 2023–2025 and undated reference photographs, inspected; not claimed to all be current-day photos."
+    }
+  }
+}
