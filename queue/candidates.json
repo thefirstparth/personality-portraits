@@ -109,7 +109,7 @@
         "current-f1-drivers"
       ],
       "lane": "standard",
-      "status": "researching",
+      "status": "draft",
       "site_evidence": "both",
       "observed_on": "2026-09-28",
       "reason": "Direct mention in inspected site snapshot; not a popularity rank.",
@@ -221,7 +221,7 @@
         "active-mens-footballers"
       ],
       "lane": "standard",
-      "status": "researching",
+      "status": "draft",
       "site_evidence": "both",
       "observed_on": "2026-09-28",
       "reason": "Direct mention in inspected site snapshot; not a popularity rank.",
@@ -417,7 +417,7 @@
         "active-mens-tennis-players"
       ],
       "lane": "standard",
-      "status": "researching",
+      "status": "draft",
       "site_evidence": "house14",
       "observed_on": "2026-09-28",
       "reason": "Direct mention in inspected site snapshot; not a popularity rank.",
@@ -465,7 +465,7 @@
         "active-nba-players"
       ],
       "lane": "standard",
-      "status": "researching",
+      "status": "draft",
       "site_evidence": "andaaza",
       "observed_on": "2026-09-28",
       "reason": "Direct mention in inspected site snapshot; not a popularity rank.",
