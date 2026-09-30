@@ -2,7 +2,7 @@
 
 A growing editorial caricature PNG library, designed for straightforward use by any website.
 
-**Status:** repository structure ready; style review pending. No approved portraits have been published. Candidate names are not available assets.
+**Status:** Personality Portraits v1.0 plugin created; general design language settled. Individual portrait publication remains gated pending review. Candidate names are not available assets.
 
 ## Find an image
 
@@ -52,6 +52,6 @@ IDs are lowercase ASCII kebab-case and never change with a team, category, hairs
 
 Only publish an approved image together with its metadata and rebuilt indexes in one commit. Run `python3 scripts/build_catalog.py` then `python3 scripts/build_catalog.py --check`. The validator requires a square RGBA PNG and verified human review fields. Actual transparent background, likeness, small-size legibility, framing and style are inspected visually before approval.
 
-Production target: 21 accepted portraits per IST day, including replacements. Normally 12 established/site-driven + 4 emerging + up to 5 overdue refreshes. Unused slots go to new portraits. Attempts have a separate ceiling; the target is not a guarantee of subscription capacity.
+Production ceiling: six distinct portraits approved or published per IST day, normally four direct discoveries and two related candidates. Maximum twelve image-provider requests per day, including edits, failures and retries; two per person. Unused slots may use qualified backlog. Refreshes are manual in v1. The plugin is a manual host-assisted workflow; scheduling is separate. See [the plugin skill](plugins/personality-portraits/skills/grow-portraits/SKILL.md).
 
 Reference photographs and unapproved images are never committed. The public catalog stays empty until style approval. Licensing for artwork remains to be selected before distributing the first approved release; public visibility alone is not a reuse license.

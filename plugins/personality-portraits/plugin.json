@@ -1,0 +1,16 @@
+{
+  "$schema": "https://agent-plugins.org/schemas/1.0.0/plugin.schema.json",
+  "name": "personality-portraits",
+  "version": "1.0.0",
+  "description": "Grow Parth's public portrait collection from Andaaza and The House of 1400, with sourced discovery, controlled expansion and recognition-first editorial caricatures.",
+  "author": {"name": "Parth Bhatia"},
+  "extensions": {"com.openai": {"interface": {
+    "displayName": "Personality Portraits",
+    "shortDescription": "Recognisable faces, with wit",
+    "longDescription": "A manual, resumable portrait-production workflow using connected GitHub, web research and image generation. Discover people from either site, prioritise overlap, expand specific categories, research likenesses and prepare up to six accepted portraits per IST day. Publish reviewed assets and indexes atomically. Scheduling is separate.",
+    "developerName": "Parth Bhatia",
+    "category": "Productivity",
+    "capabilities": ["Interactive", "Write"],
+    "defaultPrompt": ["Run today's Personality Portraits batch.", "Discover and show the next portrait candidates without generating images.", "Resume the incomplete portrait batch and report what remains."]
+  }}}
+}

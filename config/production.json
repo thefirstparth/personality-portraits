@@ -1,16 +1,16 @@
 {
   "schema_version": 1,
   "timezone": "Asia/Kolkata",
-  "daily_accepted_target": 21,
-  "daily_generation_attempt_cap": 30,
-  "standard_new_slots": 12,
-  "emerging_new_slots": 4,
-  "refresh_max_slots": 5,
+  "daily_accepted_target": 6,
+  "daily_generation_attempt_cap": 12,
+  "standard_new_slots": 4,
+  "emerging_new_slots": 0,
+  "refresh_max_slots": 0,
   "refresh_after_days": 90,
-  "style_version": "editorial-v0.2-draft",
-  "style_approved": false,
+  "style_version": "editorial-v1.0",
+  "style_approved": true,
   "publication_enabled": false,
-  "quota_note": "30 attempts is a ceiling, not an entitlement. Stop earlier at provider limits or user reserve constraints. No automatic paid fallback.",
+  "quota_note": "Six accepted portraits and twelve requests maximum across all runs in one IST day; two requests per person. Borrow unused direct/related slots only from qualified backlog. No automatic paid fallback.",
   "sources": [
     "https://getandaaza.vercel.app/",
     "https://house14.vercel.app/"
@@ -22,6 +22,12 @@
     "days_overdue"
   ],
   "emerging_rotation": "Prefer at least two categories where eligible evidence exists.",
-  "source_refresh": "Scan source sites daily; compare official rosters daily for active categories; broader discovery weekly.",
-  "candidate_expansion_max_per_category_per_day": 2
+  "source_refresh": "Read both sites per invocation, preserving edition dates and unchanged evidence; no independent emerging-person watchlist in v1.",
+  "candidate_expansion_max_per_category_per_day": 2,
+  "related_new_slots": 2,
+  "expansion_batches_max_per_category_per_day": 1,
+  "expansion_seed_cooldown_days": 7,
+  "per_person_attempt_cap": 2,
+  "refresh_mode": "manual",
+  "production_skill": "plugins/personality-portraits/skills/grow-portraits/SKILL.md"
 }
